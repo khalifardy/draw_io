@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T19:02:30.906Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uX6YROXHODQfF0Ro9LLI" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T01:56:15.410Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HCwPOcIhO9Q4wsBXZnSR" version="24.5.5" type="github">
   <diagram name="Halaman-1" id="5yhhbMqd3RVReaOzjLoG">
     <mxGraphModel dx="874" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
         <mxCell id="Q3ETUlJFQw3He_QPAttz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q3ETUlJFQw3He_QPAttz-52" target="Q3ETUlJFQw3He_QPAttz-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q3ETUlJFQw3He_QPAttz-52" value="Pengantar IOT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q3ETUlJFQw3He_QPAttz-52" value="Pengantar IOT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="60" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q3ETUlJFQw3He_QPAttz-53" value="&lt;b&gt;IOT Engineer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
